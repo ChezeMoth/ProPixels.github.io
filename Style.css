@@ -148,22 +148,7 @@ background: #C1FFC1;
 /* this makes the button's colour change when the cursor is placed on it*/
 }
 
-nav2 a2 {
-background: #181E45; 
-color: white;
-padding: 5px; 
-padding-bottom: 1px;
-text-decoration: none; 
-border-radius: 5px;
-border-radius: 0px;
-font-size: 20px;
-font-family: 'Lato', sans-serif; 
-}
-nav a2:hover {
-background: #052BA2;
-}
-
-nav a3 {
+nav a2 {
 background: white; 
 color: black;
 padding: 10px; 
@@ -172,10 +157,9 @@ border-radius: 0px;
 font-size: 50px;
 font-family: 'Lato', sans-serif; 
 }
-nav a3:hover {
+nav a2:hover {
 background: #2AA95B;
 }
-
 
 /* where images were placed inside, buttons were used instead of nav a */ 
 button { 
@@ -192,6 +176,21 @@ width: 100%;
 }
 button:hover {
 background: #2AA95B;
+}
+
+button2 {
+background: #181E45; 
+color: white;
+padding: 5px; 
+padding-bottom: 1px;
+text-decoration: none; 
+border-radius: 5px;
+border-radius: 0px;
+font-size: 20px;
+font-family: 'Lato', sans-serif; 
+}
+button2:hover {
+background: #052BA2;
 }
 
 /* end of css */
